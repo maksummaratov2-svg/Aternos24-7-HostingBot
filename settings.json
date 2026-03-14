@@ -1,12 +1,12 @@
 {
   "name": "AFK Bot",
   "bot-account": {
-    "username": "imgonnacream_bot",
+    "username": "imgonnacream",
     "password": "",
     "type": "offline"
   },
   "server": {
-    "ip": "Speedrun_New_Dream.aternos.me:42136",
+    "ip": "Speedrun_New_Dream.aternos.me",
     "port": 42136,
     "version": "",
     "try-creative": false
